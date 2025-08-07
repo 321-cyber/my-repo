@@ -1,0 +1,43 @@
+﻿  FileName.cpp
+  function.cpp
+  function.h
+C:\Users\17260\Desktop\Project3\function.cpp(6,11): error C2065: “Student”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(6,20): error C2065: “p”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(6,23): error C2062: 意外的类型“int” 
+C:\Users\17260\Desktop\Project3\function.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\17260\Desktop\Project3\function.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\u036C”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\u0467”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\uFFFD”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\u05A3”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\u0163”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\u04E2”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(10,24): warning C4566: 由通用字符名称“\u027C”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(15,16): error C2065: “Student”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(15,25): error C2065: “p”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(15,28): error C2062: 意外的类型“int” 
+C:\Users\17260\Desktop\Project3\function.cpp(16,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\17260\Desktop\Project3\function.cpp(16,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\17260\Desktop\Project3\function.cpp(25,24): warning C4566: 由通用字符名称“\u036C”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(25,24): warning C4566: 由通用字符名称“\u0467”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(25,24): warning C4566: 由通用字符名称“\uFFFD”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(25,24): warning C4566: 由通用字符名称“\u01BD”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(25,24): warning C4566: 由通用字符名称“\u027C”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(25,24): warning C4566: 由通用字符名称“\u03AA”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(29,15): error C2065: “Student”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(29,24): error C2065: “p”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(29,27): error C2062: 意外的类型“int” 
+C:\Users\17260\Desktop\Project3\function.cpp(30,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\17260\Desktop\Project3\function.cpp(30,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\17260\Desktop\Project3\function.cpp(56,16): error C2065: “Student”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(56,25): error C2065: “p”: 未声明的标识符
+C:\Users\17260\Desktop\Project3\function.cpp(56,28): error C2062: 意外的类型“int” 
+C:\Users\17260\Desktop\Project3\function.cpp(57,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\17260\Desktop\Project3\function.cpp(57,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\17260\Desktop\Project3\function.cpp(60,24): warning C4566: 由通用字符名称“\u036C”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(60,24): warning C4566: 由通用字符名称“\u0467”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(60,24): warning C4566: 由通用字符名称“\uFFFD”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(60,24): warning C4566: 由通用字符名称“\u01BD”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(60,24): warning C4566: 由通用字符名称“\u027C”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\17260\Desktop\Project3\function.cpp(60,24): warning C4566: 由通用字符名称“\u03AA”表示的字符不能在当前代码页(936)中表示出来
+  正在生成代码...
