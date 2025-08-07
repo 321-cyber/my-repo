@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17260\\Desktop\\Project19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F00D44F-83A8-4958-AE03-FC3247EBFF18}|Project19.vcxproj|C:\\Users\\17260\\Desktop\\Project19\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F00D44F-83A8-4958-AE03-FC3247EBFF18}|Project19.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\17260\\Desktop\\Project19\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\17260\\Desktop\\Project19\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T10:36:07.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
